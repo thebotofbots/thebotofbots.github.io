@@ -33,6 +33,9 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 #EXTINF:-1 group-title="News" tvg-logo="https://d2r2ijn7njrktv.cloudfront.net/apnlivehindi/uploads/2023/04/13151725/apn-Logo-1-300x118.png",APN News
 https://cdn.smartstream.video/smartstream-us/apnnews/apnnews/chunks.m3u8
 
+#EXTINF:-1 group-title="News" tvg-logo="https://bharat24live.com/_next/image?url=%2Flogo.png&w=640&q=75",Bharat 24
+https://legitpro.co.in/bharat24live/bharat24live/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/PyDjUZB.png",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
 
