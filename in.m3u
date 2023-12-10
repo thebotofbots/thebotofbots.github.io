@@ -107,6 +107,17 @@ https://ythls.armelin.one/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H4f9R7n.png" group-title="News",DD News (YT)
 https://yt.ndfile.workers.dev/stream/zUlhju0XVyE/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CNBC_Awaaz_logo.png" group-title="News",CNBC Awaaz (YT)
+https://yt.ndfile.workers.dev/stream/TD0A7fHAxKw/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CNBC_Awaaz_logo.png" group-title="News",CNBC Awaaz (YT)
+https://yt.ndfile.workers.dev/stream/TD0A7fHAxKw/master.m3u8
+
+#EXTINF:-1 group-title="News",Song (YT)
+https://yt.ndfile.workers.dev/stream/v_qc8NeCBNA/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png" group-title="News",Al Jazeera (YT)
 https://yt.ndfile.workers.dev/stream/gCNeDWCI0vo/master.m3u8
 
