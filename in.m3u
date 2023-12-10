@@ -97,6 +97,12 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H4f9R7n.png" group-title="News",DD News HD
 https://ythls.armelin.one/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zpxsc0Q.png" group-title="News",News X
+https://ythls.armelin.one/channel/UCytSP0M0Jdnw6qIy3Y-nTig.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" group-title="News",Zee News
+https://ythls.armelin.one/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8
+
 #EXTINF:-1 group-title="Politics" tvg-logo="https://yt3.googleusercontent.com/tY3E_5kQ29_aNmLX17bMwGtgHbhkAFZefpaluftZaAxW16Q3IC2-MRxmIo9TimnaqXbz6KRNBw=s900-c-k-c0x00ffffff-no-rj",Sansad TV (Rajyasabha)
 https://hls.media.nic.in/live/rstv/index.m3u8
 
