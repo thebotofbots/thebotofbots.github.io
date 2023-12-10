@@ -125,13 +125,13 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fall
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Other",Bloomberg TV Asia Live Event
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:-1 group-title="Sports",Star Sports 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="Sports",Star Sports 1
 http://iptvtree.net:8080/985999aa/6a973042c8/3630
-#EXTINF:-1 group-title="Sports",Star Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="Sports",Star Sports 2
 http://iptvtree.net:8080/985999aa/6a973042c8/3631
-#EXTINF:-1 group-title="Sports",Star Sports 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="Sports",Star Sports 3
 http://iptvtree.net:8080/985999aa/6a973042c8/62584
-#EXTINF:-1 group-title="Sports",Star Sports Select 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="Sports",Star Sports Select 1
 http://iptvtree.net:8080/985999aa/6a973042c8/82628
-#EXTINF:-1 group-title="Sports",Star Sports Select 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="Sports",Star Sports Select 2
 http://iptvtree.net:8080/985999aa/6a973042c8/16619
