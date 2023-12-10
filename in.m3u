@@ -103,10 +103,13 @@ https://ythls.armelin.one/channel/UCytSP0M0Jdnw6qIy3Y-nTig.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" group-title="News",Zee News
 https://ythls.armelin.one/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ztn2IR8.png" group-title="News",India TV (Ind)
+https://ythls.armelin.one/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
+
 #EXTINF:-1 group-title="Politics" tvg-logo="https://yt3.googleusercontent.com/tY3E_5kQ29_aNmLX17bMwGtgHbhkAFZefpaluftZaAxW16Q3IC2-MRxmIo9TimnaqXbz6KRNBw=s900-c-k-c0x00ffffff-no-rj",Sansad TV (Rajyasabha)
 https://hls.media.nic.in/live/rstv/index.m3u8
 
-#EXTINF:-1 group-title="Politics" tvg-logo="https://yt3.googleusercontent.com/tY3E_5kQ29_aNmLX17bMwGtgHbhkAFZefpaluftZaAxW16Q3IC2-MRxmIo9TimnaqXbz6KRNBw=s900-c-k-c0x00ffffff-no-rj",Sansad TV (Rajyasabha)
+#EXTINF:-1 group-title="Politics" tvg-logo="https://yt3.googleusercontent.com/tY3E_5kQ29_aNmLX17bMwGtgHbhkAFZefpaluftZaAxW16Q3IC2-MRxmIo9TimnaqXbz6KRNBw=s900-c-k-c0x00ffffff-no-rj",Sansad TV (Loksabha)
 https://hls.media.nic.in/live/lstv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NmVCXhz/IMG-20230610-135938.jpg" group-title="Sports",Sports18 1 HD
@@ -117,5 +120,12 @@ https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EbHSQAJ.png" group-title="Movies",Colors Cineplex Bollywood
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KbXhstz/Screenshot-20230610-130415.jpg" group-title="Movies",Colors Cineplex Superhits
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Other",Bloomberg TV Asia
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Other",Bloomberg TV Asia Live Event
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
