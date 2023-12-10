@@ -1,70 +1,70 @@
 #EXTM3U
 
-#EXTINF:-1,Aaj Tak HD
+#EXTINF:-1 group-title="News" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-126x55.png?imbypass=true",Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
-#EXTINF:-1,Aaj Tak
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/RpIdCB3.png",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_720p/chunks.m3u8
 
-#EXTINF:-1,Aaj Tak Alternate
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/RpIdCB3.png",Aaj Tak Alternate
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
-#EXTINF:-1,India Today
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/koFYddE.png",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 
-#EXTINF:-1,Republic TV Live
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/K9KX8un.png",Republic TV
 https://weblive.republicworld.com/httppush/ottr_republic_english/weblive/master.m3u8
 
-#EXTINF:-1,Republic Bharat
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/NEAoh6O.png",Republic Bharat
 https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/webliverb/master.m3u8
 
-#EXTINF:-1,ABP News
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png",ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 
-#EXTINF:-1,Zee News
+#EXTINF:-1 group-title="News" tvg-logo="[Insert Zee News Logo URL here]",Zee News
 [Insert Zee News URL here]
 
-#EXTINF:-1,Zee Bihar Jharkhand
+#EXTINF:-1 group-title="News" tvg-logo="[Insert Zee Bihar Jharkhand Logo URL here]",Zee Bihar Jharkhand
 [Insert Zee Bihar Jharkhand URL here]
 
-#EXTINF:-1,India TV
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/ztn2IR8.png",India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 
-#EXTINF:-1,NDTV India
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/PyDjUZB.png",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
 
-#EXTINF:-1,NDTV 24x7
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 
-#EXTINF:-1,NDTV Profit
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/WK4tZ6p.png",NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 
-#EXTINF:-1,DD News HD
+#EXTINF:-1 group-title="News" tvg-logo="[Insert DD News HD Logo URL here]",DD News HD
 [Insert DD News HD URL here]
 
-#EXTINF:-1,News 24
+#EXTINF:-1 group-title="News" tvg-logo="[Insert News 24 Logo URL here]",News 24
 [Insert News 24 URL here]
 
-#EXTINF:-1,News 18
+#EXTINF:-1 group-title="News" tvg-logo="https://hindi.news18.com/images/siteimages/News18_Hindi_logo_1631086645.svg?impolicy=website&width=130&height=68",News 18
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
 
-#EXTINF:-1,News 18 Bihar Jharkhand
+#EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/WB4qwH-CnhP9AiztkWLOf1rgdqRUQlGJdV70n8JEjJEH5IBMBJtOpx-XajGcD6UaEHoYVD4GoOM=s900-c-k-c0x00ffffff-no-rj",News 18 Bihar Jharkhand
 https://nw18live.cdn.jio.com/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/index.m3u8
 
-#EXTINF:-1,India News
+#EXTINF:-1 group-title="News" tvg-logo="[Insert India News Logo URL here]",India News
 [Insert India News URL here]
 
-#EXTINF:-1,GNT
+#EXTINF:-1 group-title="News" tvg-logo="https://akm-img-a-in.tosshub.com/lingo/gnt/resources/img/logo.png",GNT
 https://tezlive-amd.akamaized.net/hls/live/2016145-b/gnt/gntlive/live_720p/chunks.m3u8
 
-#EXTINF:-1,Times Now Navbharat
+#EXTINF:-1 group-title="News" tvg-logo="[Insert Times Now Navbharat Logo URL here]",Times Now Navbharat
 [Insert Times Now Navbharat URL here]
 
-#EXTINF:-1,Times Now English
+#EXTINF:-1 group-title="News" tvg-logo="https://www.timesnowhindi.com/assets/icons/svg/times-now-navbharat.svg",Times Now English
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8
 
-#EXTINF:-1,BBC
+#EXTINF:-1 group-title="News" tvg-logo="[Insert BBC Logo URL here]",BBC
 [Insert BBC URL here]
 
-#EXTINF:-1,CNN
+#EXTINF:-1 group-title="News" tvg-logo="[Insert CNN Logo URL here]",CNN
 [Insert CNN URL here]
