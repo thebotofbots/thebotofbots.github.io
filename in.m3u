@@ -59,7 +59,6 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/ind
 #EXTINF:-1 group-title="News" tvg-logo="https://akm-img-a-in.tosshub.com/lingo/gnt/resources/img/logo.png",GNT
 https://tezlive-amd.akamaized.net/hls/live/2016145-b/gnt/gntlive/live_720p/chunks.m3u8
 
-
 #EXTINF:-1 group-title="News" tvg-logo="https://m.media-amazon.com/images/I/61qVuePZuQL.png",Times Now
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8
 
@@ -86,7 +85,6 @@ https://livetv.sli.ke/etnow/master_1.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2021/09/Times-Network-forays-into-Hindi-Business-News-category-with-ET-NOW-Swadesh.jpg",ET Now Swadesh
 https://dai.google.com/linear/hls/pb/event/ESxxqb1yQ66F014Xpmeylw/stream/a2eee9fa-7255-4b5d-9713-54c6796a053e:TPE/variant/de26034a216eeb21bc616a5344a6cfa2/bandwidth/1592800.m3u8
-
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/ndQ8LZp.png",Amar Ujala
 https://ythls.armelin.one/channel/UCP_wvXToU5ohFLbTAkatvsw.m3u8
@@ -123,13 +121,10 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KbXhstz/Screenshot-20230610-130415.jpg" group-title="Movies",Colors Cineplex Superhits
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Other",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Other",Bloomberg TV Asia Live Event
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-
 #EXTINF:-1 group-title="Sports",Star Sports 1
 http://iptvtree.net:8080/985999aa/6a973042c8/3630
 #EXTINF:-1 group-title="Sports",Star Sports 2
