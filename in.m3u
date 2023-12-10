@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF:-1,Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1,Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_720p/chunks.m3u8
+
+#EXTINF:-1,Aaj Tak Alternate
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+
+#EXTINF:-1,India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+#EXTINF:-1,Republic TV Live
+https://weblive.republicworld.com/httppush/ottr_republic_english/weblive/master.m3u8
+
+#EXTINF:-1,Republic Bharat
+https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/webliverb/master.m3u8
+
+#EXTINF:-1,ABP News
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+
+#EXTINF:-1,Zee News
+[Insert Zee News URL here]
+
+#EXTINF:-1,Zee Bihar Jharkhand
+[Insert Zee Bihar Jharkhand URL here]
+
+#EXTINF:-1,India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
+
+#EXTINF:-1,NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
+
+#EXTINF:-1,NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+
+#EXTINF:-1,NDTV Profit
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
+
+#EXTINF:-1,DD News HD
+[Insert DD News HD URL here]
+
+#EXTINF:-1,News 24
+[Insert News 24 URL here]
+
+#EXTINF:-1,News 18
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1,News 18 Bihar Jharkhand
+https://nw18live.cdn.jio.com/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1,India News
+[Insert India News URL here]
+
+#EXTINF:-1,GNT
+https://tezlive-amd.akamaized.net/hls/live/2016145-b/gnt/gntlive/live_720p/chunks.m3u8
+
+#EXTINF:-1,Times Now Navbharat
+[Insert Times Now Navbharat URL here]
+
+#EXTINF:-1,Times Now English
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8
+
+#EXTINF:-1,BBC
+[Insert BBC URL here]
+
+#EXTINF:-1,CNN
+[Insert CNN URL here]
