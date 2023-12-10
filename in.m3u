@@ -108,3 +108,6 @@ https://hls.media.nic.in/live/rstv/index.m3u8
 
 #EXTINF:-1 group-title="Politics" tvg-logo="https://yt3.googleusercontent.com/tY3E_5kQ29_aNmLX17bMwGtgHbhkAFZefpaluftZaAxW16Q3IC2-MRxmIo9TimnaqXbz6KRNBw=s900-c-k-c0x00ffffff-no-rj",Sansad TV (Rajyasabha)
 https://hls.media.nic.in/live/lstv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NmVCXhz/IMG-20230610-135938.jpg" group-title="Sports",Sports18 1 HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
