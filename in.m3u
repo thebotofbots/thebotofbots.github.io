@@ -104,6 +104,9 @@ https://ythls.armelin.one/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ztn2IR8.png" group-title="News",India TV (Ind)
 https://ythls.armelin.one/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H4f9R7n.png group-title="News",DD News (YT)
+https://yt.ndfile.workers.dev/stream/zUlhju0XVyE/master.m3u8
+
 #EXTINF:-1 group-title="Politics" tvg-logo="https://yt3.googleusercontent.com/tY3E_5kQ29_aNmLX17bMwGtgHbhkAFZefpaluftZaAxW16Q3IC2-MRxmIo9TimnaqXbz6KRNBw=s900-c-k-c0x00ffffff-no-rj",Sansad TV (Rajyasabha)
 https://hls.media.nic.in/live/rstv/index.m3u8
 
@@ -135,3 +138,4 @@ http://iptvtree.net:8080/985999aa/6a973042c8/62584
 http://iptvtree.net:8080/985999aa/6a973042c8/82628
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="Sports",Star Sports Select 2
 http://iptvtree.net:8080/985999aa/6a973042c8/16619
+
