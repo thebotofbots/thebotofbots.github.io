@@ -21,12 +21,6 @@ https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/webliverb/mast
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png",ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="[Insert Zee News Logo URL here]",Zee News
-[Insert Zee News URL here]
-
-#EXTINF:-1 group-title="News" tvg-logo="[Insert Zee Bihar Jharkhand Logo URL here]",Zee Bihar Jharkhand
-[Insert Zee Bihar Jharkhand URL here]
-
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/ztn2IR8.png",India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 
@@ -54,11 +48,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/WK4tZ6p.png",NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="[Insert DD News HD Logo URL here]",DD News HD
-[Insert DD News HD URL here]
-
-#EXTINF:-1 group-title="News" tvg-logo="[Insert News 24 Logo URL here]",News 24
-[Insert News 24 URL here]
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png",News 18
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
@@ -66,8 +55,6 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/WB4qwH-CnhP9AiztkWLOf1rgdqRUQlGJdV70n8JEjJEH5IBMBJtOpx-XajGcD6UaEHoYVD4GoOM=s900-c-k-c0x00ffffff-no-rj",News 18 Bihar Jharkhand
 https://nw18live.cdn.jio.com/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="[Insert India News Logo URL here]",India News
-[Insert India News URL here]
 
 #EXTINF:-1 group-title="News" tvg-logo="https://akm-img-a-in.tosshub.com/lingo/gnt/resources/img/logo.png",GNT
 https://tezlive-amd.akamaized.net/hls/live/2016145-b/gnt/gntlive/live_720p/chunks.m3u8
@@ -83,3 +70,9 @@ https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m
 
 #EXTINF:-1 group-title="News" tvg-logo="[Insert CNN Logo URL here]",CNN
 [Insert CNN URL here]
+
+#EXTINF:-1 group-title="Politics" tvg-logo="https://yt3.googleusercontent.com/tY3E_5kQ29_aNmLX17bMwGtgHbhkAFZefpaluftZaAxW16Q3IC2-MRxmIo9TimnaqXbz6KRNBw=s900-c-k-c0x00ffffff-no-rj",Sansad TV (Rajyasabha)
+https://hls.media.nic.in/live/rstv/index.m3u8
+
+#EXTINF:-1 group-title="Politics" tvg-logo="https://yt3.googleusercontent.com/tY3E_5kQ29_aNmLX17bMwGtgHbhkAFZefpaluftZaAxW16Q3IC2-MRxmIo9TimnaqXbz6KRNBw=s900-c-k-c0x00ffffff-no-rj",Sansad TV (Rajyasabha)
+https://hls.media.nic.in/live/lstv/index.m3u8
