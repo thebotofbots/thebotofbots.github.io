@@ -71,6 +71,12 @@ https://ott.livelegitpro.in/pusa/sudarshantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://play-lh.googleusercontent.com/zWyOgbYz5bijD1KbpqpkjzudPU42sTPH2mioC7q8WXeUIeMqYmSBRhbGFRmWVYY7ckZ3",TV9 Bharatvarsh
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
 
+#EXTINF:-1 group-title="News" tvg-logo="https://exchange4media.gumlet.io/news-photo/1537953758_IAsX9d_MirrorNOW.jpg",Mirror Now
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Times-now-navbharat.png",Times Now Navbharat
+https://dai.google.com/linear/hls/pb/event/RDtRdeJUTfuRKDtZcZfZew/stream/df31adce-20c8-43dc-a7a6-96bba34df4c9:SIN/variant/9ea09de9f1c09fc5967ee82cab7ef7e4/bandwidth/2736800.m3u8
+
 #EXTINF:-1 group-title="News" tvg-logo="[Insert BBC Logo URL here]",BBC
 [Insert BBC URL here]
 
