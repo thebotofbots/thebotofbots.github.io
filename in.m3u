@@ -36,6 +36,15 @@ https://cdn.smartstream.video/smartstream-us/apnnews/apnnews/chunks.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://bharat24live.com/_next/image?url=%2Flogo.png&w=640&q=75",Bharat 24
 https://legitpro.co.in/bharat24live/bharat24live/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="News" tvg-logo="https://bharatexpress.com/wp-content/themes/newstrackcms/images/bharat-express-new-logo.png",Bharat Express
+https://stream1.livebox.co.in/VCAREhls/live.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://bharatsamachartv.in/wp-content/uploads/2021/10/Bharat-Samachar-1.png",Bharat Samachar
+https://idvd.multitvsolution.com/idvo/bharatsamachar_hungama_high.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://news24online.com/wp-content/themes/news24theme/assets/images/logo.jpeg",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
+
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/PyDjUZB.png",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
 
