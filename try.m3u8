@@ -1,8 +1,6 @@
 #EXTM3U  x-tvg-url="https://tsepg.cf/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭K+" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://i.imgur.com/4cwpDe3.jpg", K+SPORT2 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="ksport2hd" group-title="Hi" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://i.imgur.com/4cwpDe3.jpg", Hi Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3b88f2cff3affef20b265c840bafc0cc", "kid":"6653c05e42fc4fac8f49d7cbf99498fe" } ], "type":"temporary" }
 https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
