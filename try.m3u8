@@ -1,4 +1,3 @@
-#EXTINF:-1 tvg-id="ksport2hd" group-title="TV" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://i.imgur.com/4cwpDe3.jpg", Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
