@@ -1,5 +1,5 @@
+#EXTINF:-1 tvg-id="ksport2hd" group-title="Other" tvg-logo="https://i.imgur.com/4cwpDe3.jpg", TrySports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3w7wFYbWQfPUSoo7X9YtzA","kid":"AAXyrS0h7fFZ1Fozp03NhA"}],"type":"temporary"}
-https://linear002-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportscricket)/manifest_sd.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"03c2e0af2f8159f9f0ce9b5dbc865f10": "cd84ed136b0cc71f8ab8cd4d4f6a2e4c"}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
