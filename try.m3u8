@@ -2,5 +2,5 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"df0ec40586d641f3d4728ab5fd62adc3","kid":"0003f2a72d21efd159d45a3a74decd84"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3w7wFYbWQfPUSoo7X9YtzA","kid":"AAXyrS0h7fFZ1Fozp03NhA"}],"type":"temporary"}
 https://linear002-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportscricket)/manifest_sd.mpd
