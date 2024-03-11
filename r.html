@@ -7,7 +7,6 @@
 </head>
 <body>
     <script>
-        // Define a function to check response and return message
         function checkResponse(url) {
             if (url) {
                 return fetch(url)
@@ -25,11 +24,8 @@
                 return 'error';
             }
         }
-        // Get URL parameter
         const urlParams = new URLSearchParams(window.location.search);
         const url = urlParams.get('url');
-
-        // Call the function with the URL parameter and return the result as JSON
         checkResponse(url).then(result => {
             const output = JSON.stringify({ result: result });
             document.body.textContent = output; // Display JSON output directly on the page
