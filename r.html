@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // Define a function to check response and return message
+        function checkResponse(url) {
+            if (url) {
+                return fetch(url)
+                    .then(response => {
+                        if (response.ok) {
+                            return 'good';
+                        } else {
+                            return 'bad';
+                        }
+                    })
+                    .catch(() => {
+                        return 'error';
+                    });
+            } else {
+                return 'error';
+            }
+        }
+
+        // Get URL parameter
+        const urlParams = new URLSearchParams(window.location.search);
+        const url = urlParams.get('url');
+
+        // Call the function with the URL parameter and log the result
+        checkResponse(url).then(result => console.log(result));
+    </script>
+</body>
+</html>
