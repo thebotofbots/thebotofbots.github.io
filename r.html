@@ -4,6 +4,7 @@
     <title>Document</title>
 </head>
 <body>
+    <div id="result"></div> <!-- Empty div where the result will be displayed -->
     <script>
         // Define a function to check response and return message
         function checkResponse(url) {
@@ -28,8 +29,10 @@
         const urlParams = new URLSearchParams(window.location.search);
         const url = urlParams.get('url');
 
-        // Call the function with the URL parameter and log the result
-        checkResponse(url).then(result => console.log(result));
+        // Call the function with the URL parameter and display the result in the div
+        checkResponse(url).then(result => {
+            document.getElementById('result').textContent = result;
+        });
     </script>
 </body>
 </html>
