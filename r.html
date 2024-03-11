@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Document</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Result</title>
 </head>
 <body>
-    <div id="result"></div> <!-- Empty div where the result will be displayed -->
     <script>
         // Define a function to check response and return message
         function checkResponse(url) {
@@ -24,14 +25,14 @@
                 return 'error';
             }
         }
-
         // Get URL parameter
         const urlParams = new URLSearchParams(window.location.search);
         const url = urlParams.get('url');
 
-        // Call the function with the URL parameter and display the result in the div
+        // Call the function with the URL parameter and return the result as JSON
         checkResponse(url).then(result => {
-            document.getElementById('result').textContent = result;
+            const output = JSON.stringify({ result: result });
+            document.body.textContent = output; // Display JSON output directly on the page
         });
     </script>
 </body>
